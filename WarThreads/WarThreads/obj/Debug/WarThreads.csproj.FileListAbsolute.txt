@@ -1,0 +1,14 @@
+D:\HSE(2 course)\КПО\WarThreads\WarThreads\bin\Debug\WarThreads.exe.config
+D:\HSE(2 course)\КПО\WarThreads\WarThreads\bin\Debug\WarThreads.exe
+D:\HSE(2 course)\КПО\WarThreads\WarThreads\bin\Debug\WarThreads.pdb
+D:\HSE(2 course)\КПО\WarThreads\WarThreads\obj\Debug\WarThreads.csprojAssemblyReference.cache
+D:\HSE(2 course)\КПО\WarThreads\WarThreads\obj\Debug\WarThreads.csproj.CoreCompileInputs.cache
+D:\HSE(2 course)\КПО\WarThreads\WarThreads\obj\Debug\WarThreads.exe
+D:\HSE(2 course)\КПО\WarThreads\WarThreads\obj\Debug\WarThreads.pdb
+C:\Users\Dima\Downloads\WarThreads\WarThreads\bin\Debug\WarThreads.exe.config
+C:\Users\Dima\Downloads\WarThreads\WarThreads\bin\Debug\WarThreads.exe
+C:\Users\Dima\Downloads\WarThreads\WarThreads\bin\Debug\WarThreads.pdb
+C:\Users\Dima\Downloads\WarThreads\WarThreads\obj\Debug\WarThreads.csproj.AssemblyReference.cache
+C:\Users\Dima\Downloads\WarThreads\WarThreads\obj\Debug\WarThreads.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Downloads\WarThreads\WarThreads\obj\Debug\WarThreads.exe
+C:\Users\Dima\Downloads\WarThreads\WarThreads\obj\Debug\WarThreads.pdb
